@@ -1,7 +1,6 @@
 ---
 title: "TITLE"
 date: 2021-04-29
----
 title: greatsword users' right concern group member
 date: 2021-04-29
 author: capcom
@@ -15,3 +14,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
